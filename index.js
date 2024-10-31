@@ -70,3 +70,26 @@ function readOneFile() {
   return seletedNoteByTitle;
 }
 console.log(readOneFile());
+
+switch (argv.command) {
+  case "add note":
+    console.log(addNote());
+
+    break;
+  case "list note":
+    console.log(listAllNotes());
+
+    break;
+  case "delete note":
+    console.log(deleteNotesByTitle());
+
+    break;
+  case "read note":
+    console.log(readOneFile());
+
+    break;
+
+  default:
+    console.log("No command not found");
+    break;
+}

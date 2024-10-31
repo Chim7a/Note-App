@@ -1,11 +1,1 @@
-[
-  { "noteTitle": "Note 1", "noteContent": "This is my first Note" },
-  { "noteTitle": "Note 2", "noteContent": "This is my first Note" },
-  { "noteTitle": "Note 3", "noteContent": "This is my first Note" },
-  { "noteTitle": "Note 4", "noteContent": "This is my first Note" },
-  { "noteTitle": "Testing Yarg", "noteContent": "A new beginning to backend" },
-  {
-    "noteTitle": "Ten Hag sacked",
-    "noteContent": "We are on our way to the top"
-  }
-]
+[{"noteTitle":"Note 2","noteContent":"This is my first Note"},{"noteTitle":"Note 3","noteContent":"This is my first Note"},{"noteTitle":"Note 4","noteContent":"This is my first Note"},{"noteTitle":"Testing Yarg","noteContent":"A new beginning to backend"},{"noteTitle":"Ten Hag sacked","noteContent":"We are on our way to the top"},{"noteTitle":"fashion","noteContent":"Fashion style"}]
